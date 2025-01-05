@@ -1,7 +1,11 @@
-ntelliCane
+IntelliCane
 
 An AI-powered smart cane designed to empower visually impaired individuals with enhanced situational awareness.
 🏆 Winner of Best Accessibility Hack at MakeUofT 2023
+
+Link to DevPost: https://devpost.com/software/intellicane-gjqo0a
+
+![image alt](https://github.com/RayanAhsan/IntelliCane-MakeUoft2023-Winner/blob/7acfb7f6dc1d4ce7f5393cb3a477ccf262d50327/intellicane.png)
 
 📖 Overview
 IntelliCane is an innovative assistive device that combines IoT and AI technologies to improve mobility and safety for visually impaired users. Equipped with sensors, a camera, and advanced object detection capabilities, IntelliCane provides real-time feedback to help users navigate their environment confidently.
